@@ -18,8 +18,6 @@ This portfolio is divided into five core tasks corresponding to the five modules
 
 ---
 
-## 📂 Repository Structure & Module Summaries
-
 ### Module 1: Digital Literacy Awareness Infographic (Task 1) 
 **Objective:** Create a one-page visual resource to help batchmates understand what Digital Literacy means and why it matters.
 * **What I Built:** A comprehensive infographic using Canva. 
@@ -46,15 +44,15 @@ This portfolio is divided into five core tasks corresponding to the five modules
 
 ### Module 4: Professional Email & Etiquette Guide (Task 4) 
 **Objective:** Apply and teach professional online communication rules.
-* **What I Built:** * **Email Drafts:** Wrote two highly structured, professional emails: one requesting a university assignment extension, and another inquiring about a summer Artificial Intelligence internship. Both include clear subject lines, greetings, and sign-offs.
+* **What I Built:**  **Email Drafts:** Wrote two highly structured, professional emails: one requesting a university assignment extension, and another inquiring about a summer Artificial Intelligence internship. Both include clear subject lines, greetings, and sign-offs.
 * **Social Media Checklist:** Created a Markdown file containing 5 Do's and 5 Don'ts for responsible social media use as a college student.
-* **Folder Location:** `task-4-email-etiquette/` 
+* **Folder Location:** `task-4-email-etiquette` 
 
 ### Module 5: Cybercrime Awareness Case Study & Prevention (Task 5) 
 **Objective:** Research a cybercrime scenario and produce an awareness and prevention resource.
-* **What I Built:** * **Case Study:** A 200+ word detailed breakdown of the **UPI/Online Payment Fraud** (specifically the "Receive Money" scam), explaining how scammers use social engineering and urgency to target distracted college students.
+* **What I Built:** **Case Study:** A 200+ word detailed breakdown of the **UPI/Online Payment Fraud** (specifically the "Receive Money" scam), explaining how scammers use social engineering and urgency to target distracted college students.
 * **Prevention Guide:** An 8-point 'Stay Safe Online' checklist specifically tailored for students in India, detailing strict financial/UPI safety habits and providing official reporting channels (Helpline 1930 and cybercrime.gov.in).
-* **Folder Location:** `task-5-cybercrime/` 
+* **Folder Location:** `task-5-cybercrime` 
 
 ---
 
