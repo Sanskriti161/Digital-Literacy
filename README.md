@@ -57,5 +57,5 @@ This portfolio is divided into five core tasks corresponding to the five modules
 ---
 
 ## 📄 Final Project Report
-]The culmination of all the tasks above, including personal reflections, platform choices, and academic takeaways, is documented in the final written report.
+The culmination of all the tasks above, including personal reflections, platform choices, and academic takeaways, is documented in the final written report.
 * **Folder Location:** `Project_Report.pdf`
