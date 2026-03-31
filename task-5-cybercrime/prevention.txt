@@ -1,15 +1,15 @@
-# Stay Safe Online: A Cyber Security Checklist for College Students in India
+Stay Safe Online: A Cyber Security Checklist for College Students in India
 
-1. **UPI PIN is strictly for sending money:** Never enter your UPI PIN (on GPay, PhonePe, Paytm, etc.) if you are supposed to be *receiving* funds. 
-2. **Verify the VPA/UPI ID:** Always double-check the receiver's name and UPI ID before hitting send. Once the money is gone, it is extremely hard to reverse.
-3. **Beware of urgent messages:** Scammers use panic (e.g., "Your bank account will be blocked!") to make you act without thinking. Always pause and verify.
-4. **Never share OTPs:** Do not share One-Time Passwords with anyone, even if they claim to be calling from your bank or university administration.
-5. **Use 2FA everywhere:** Enable Two-Factor Authentication on your email, Instagram, WhatsApp, and GitHub accounts to prevent unauthorized logins.
-6. **Avoid public Wi-Fi for transactions:** Do not make fee payments or check your bank balance while connected to open campus or cafe Wi-Fi networks.
-7. **Be careful with delivery links:** Do not click on random SMS links claiming your "package delivery failed" or "electricity bill is due," as these are common phishing traps.
-8. **Lock down app permissions:** Regularly check what permissions your mobile apps have; a flashlight app does not need access to your contacts or microphone.
+1. UPI PIN is strictly for sending money: Never enter your UPI PIN (on GPay, PhonePe, Paytm, etc.) if you are supposed to be *receiving* funds. 
+2. Verify the VPA/UPI ID: Always double-check the receiver's name and UPI ID before hitting send. Once the money is gone, it is extremely hard to reverse.
+3. Beware of urgent messages: Scammers use panic (e.g., "Your bank account will be blocked!") to make you act without thinking. Always pause and verify.
+4. Never share OTPs: Do not share One-Time Passwords with anyone, even if they claim to be calling from your bank or university administration.
+5. Use 2FA everywhere: Enable Two-Factor Authentication on your email, Instagram, WhatsApp, and GitHub accounts to prevent unauthorized logins.
+6. Avoid public Wi-Fi for transactions: Do not make fee payments or check your bank balance while connected to open campus or cafe Wi-Fi networks.
+7. Be careful with delivery links: Do not click on random SMS links claiming your "package delivery failed" or "electricity bill is due," as these are common phishing traps.
+8. Lock down app permissions: Regularly check what permissions your mobile apps have; a flashlight app does not need access to your contacts or microphone.
 
-### 🚨 Emergency Reporting Channels
+🚨 Emergency Reporting Channels
 If you or a friend become a victim of cybercrime, report it immediately to the official authorities in India:
-* **National Cyber Crime Reporting Portal:** [cybercrime.gov.in](https://cybercrime.gov.in)
-* **National Cyber Crime Helpline Number:** Dial **1930**
+* National Cyber Crime Reporting Portal: [cybercrime.gov.in](https://cybercrime.gov.in)
+* National Cyber Crime Helpline Number: Dial **1930**
